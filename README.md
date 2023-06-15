@@ -7,7 +7,6 @@ The application uses API written in NodeJS and MySQL languages.(team work links 
 Application demo video.
 Demo Home page.
 
-https://user-images.githubusercontent.com/73240563/149705306-425bba14-1d40-4ab1-b136-d8905e2e91c0.mp4
 
 Demo Favorite and Gift code.
 
